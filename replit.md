@@ -144,3 +144,4 @@ Changelog:
 - July 05, 2025: Implemented comprehensive FAQ page with employee/employer view switching and search functionality
 - July 05, 2025: Simplified architecture - removed Unternehmen page and audience toggle, unified single-page approach
 - January 2025: Major code refactoring - Split components into smaller files, extracted business logic to hooks, created clear folder structure, centralized constants and data
+- January 6, 2025: Asset reorganization - Moved all used assets from attached_assets to client/src/assets with clear naming convention and updated all import paths

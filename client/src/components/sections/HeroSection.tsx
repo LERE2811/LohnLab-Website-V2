@@ -1,5 +1,5 @@
 import HeroButtons from "@/components/common/HeroButtons";
-import datevLogo from "@assets/images-removebg-preview_1751751686149.png";
+import datevLogo from "@/assets/datev-logo.png";
 
 /**
  * Hero-Sektion Komponente
